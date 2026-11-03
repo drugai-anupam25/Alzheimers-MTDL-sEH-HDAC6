@@ -1,0 +1,25 @@
+ID,SMILES,Average_Score,Tox_Alert,Mutagenicity_Risk,ADMET_Status
+F01,O=C(NC1=CC=C(OCC(O)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F02,O=C(NC1=CC=C(C(=O)NCC(=O)O)C(F)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F03,O=C(NC1=CC(F)=C(C(=O)NCC(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F04,O=C(NC1=C(F)C=C(C(=O)NCC(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F08,O=C(NC1=CC(F)=C(OCC(O)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F09,O=C(NC1=C(F)C=C(OCC(O)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F10,O=C(NC1=CC=C(OCC(O)C(=O)O)C(F)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F11,O=C(NC1=CC=C(NC(=O)CC1CC1C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F12,O=C(NC1=CC=C(C(=O)NCC(=O)O)C(C)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F14,O=C(NC1=CC=C(OCC(O)C(=O)O)C(C)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F15,O=C(NC1=CC=C(C(=O)NCC(F)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F18,O=C(NC1=CC=C(OCCC(O)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F19,O=C(NC1=CC=C(OCC(O)CC(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F20,O=C(NC1=CC(F)=C(C(=O)NCC(F)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F21,O=C(NC1=C(F)C=C(C(=O)NCC(F)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F22,O=C(NC1=CC=C(C(=O)NCC(F)C(=O)O)C(F)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F23,O=C(NC1=CC=C(C(=O)NCCC(=O)O)C(F)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F24,O=C(NC1=C(F)C=C(C(=O)NCCC(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F25,O=C(NC1=CC(F)=C(C(=O)NCCC(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F26,O=C(NC1=CC=C(OCCC(O)C(=O)O)C(F)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F27,O=C(NC1=CC(F)=C(OCCC(O)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F28,O=C(NC1=CC(F)=C(OCC(O)CC(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F29,O=C(NC1=CC=C(OCC(O)CC(=O)O)C(F)=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
+F30,O=C(NC1=C(F)C=C(OCCC(O)C(=O)O)C=C1)N[C@]2(C3)C[C@]4(C)C[C@](C[C@H]3C4)(C)C2,N/A,Clean,Low (Bioisostere),✅ PASS
